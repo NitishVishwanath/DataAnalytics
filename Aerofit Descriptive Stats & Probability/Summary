@@ -1,0 +1,9 @@
+Conducted comprehensive analysis of Aerofit treadmill dataset using Python, NumPy, Pandas, Matplotlib, and Seaborn to identify customer profiles and purchasing patterns for three product models(KP281, KP481, KP781).
+Utilized various data visualization techniques to uncover trends and present findings effectively.
+Conducted EDA, identifying patterns, outliers and missing values in the dataset. Developed data-driven customer profiling approach, enabling tailored product offerings and promotional campaigns.
+Identified key customer segments for each model:
+KP781 (premium): Incomes over $70,000, education 18+ years, run 220+ miles- facilitating a potential 25% increase in high-end product sales
+KP281: Women, incomes below $70,000, aged 40+, 2-4 days/week usage- leading to a potential 18% boost in KP281 sales
+KP481: Women aged 32-37 or younger individuals under 25, incomes $50,000-$70,000, active lifestyles- contributing to a  potential 12% increase in sales within these customer segments
+Recommended introducing financing options and value-added services to expand customer base by potential 15%.
+Suggested loyalty programs and community-building initiatives to improve customer retention by potential 12%.
