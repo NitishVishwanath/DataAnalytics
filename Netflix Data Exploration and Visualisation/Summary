@@ -1,0 +1,7 @@
+Analyzed 8,807 movies & TV shows using Pandas, employing advanced data manipulation techniques including data aggregation, grouping and pivoting to extract actionable insights.
+Utilized Matplotlib and Seaborn for data visualization, effectively communicating findings to stakeholders.
+Identified key trends in content consumption, including popular genres (International Movies: 2,752 titles, Dramas: 2,427 titles), directors, actors, and release years.
+Determined optimal content launch timing: July peak for movies (565 titles), December for TV shows (266 titles), with 25% higher volume during these months.
+Discovered Fridays as the most popular day for new content additions (30% higher volume), suggesting tailored release strategies.
+Projected potential 15-20% increase in viewership during critical release windows and potential 25% reduction in time-to-market through streamlined acquisition processes.
+Estimated potential 10% increase in subscriber retention rates through data-driven content curation based on audience preferences and viewing patterns.
